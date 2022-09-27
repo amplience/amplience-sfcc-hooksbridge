@@ -1,8 +1,8 @@
 # Amplience SFCC Hooks Bridge
 
-This mini cartridge contains hooks are designed to work with our [Amplience Salesforce Composable Commerce (ASCC)](https://github.com/amplience/amplience-sfcc-composable-commerce) implementation to facilitate Content Personalization. The hooks extend  acouple OCAPI endpoints and enable us to get the groups a customer belongs to,  as well as **all** user groups present on a SFCC site.
+This mini cartridge contains hooks designed to work with our [Amplience Salesforce Composable Commerce (ASCC)](https://github.com/amplience/amplience-sfcc-composable-commerce) implementation to facilitate Content Personalization. The hooks extend OCAPI endpoints and enable us to get the groups a customer belongs to, as well as **ALL** user groups present on a SFCC site that enable special preview features in our **ASCC** *Preview Toolbar*.
 
-If you'd like to use our extended personalized content  features in **`ASCC`** you'l need to set this up on your SFCC instance. Below is a step by step walkthrough of that process.
+If you'd like to use our extended personalized content  features in **`ASCC`** you'll need to set this cartridge up on your SFCC instance. Below is a step by step walkthrough of that process.
 
 ## Setting up your SFCC Sandbox/instance
 
