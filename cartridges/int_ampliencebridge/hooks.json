@@ -3,6 +3,10 @@
         {
             "name": "dw.ocapi.shop.customer.modifyGETResponse",
             "script": "./cartridge/scripts/hooks/customer.js"
+        },
+        {
+            "name": "dw.ocapi.shop.folder.modifyGETResponse",
+            "script": "./cartridge/scripts/hooks/site.js"
         }
     ]
 }
