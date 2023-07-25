@@ -14,7 +14,7 @@ exports.modifyGETResponse = function (scriptFolder, results) {
 
   results.c_customerGroups = customerGroups;
 
-  // Get all active campaigns and promotions
+  // Get all campaigns and promotions
   const CM = require('dw/campaign/PromotionMgr');
   let camps = [];
   let promotions = [];
